@@ -1,0 +1,35 @@
+C:\Users\ender\source\repos\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe.config
+C:\Users\ender\source\repos\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe
+C:\Users\ender\source\repos\CaixaRegistadora\bin\Debug\CaixaRegistadora.pdb
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.csprojAssemblyReference.cache
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.Form1.resources
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.Properties.Resources.resources
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.csproj.GenerateResource.cache
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.exe
+C:\Users\ender\source\repos\CaixaRegistadora\obj\Debug\CaixaRegistadora.pdb
+C:\Users\ender\source\repos\CaixaRegistadora\bin\Debug\CaixaRegistradora.mdf
+C:\Users\ender\source\repos\CaixaRegistadora\bin\Debug\CaixaRegistradora_log.ldf
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\bin\Debug\CaixaRegistradora.mdf
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\bin\Debug\CaixaRegistradora_log.ldf
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe.config
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\bin\Debug\CaixaRegistadora.pdb
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.csprojAssemblyReference.cache
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.Form1.resources
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.Properties.Resources.resources
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.csproj.GenerateResource.cache
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.exe
+C:\Users\Rodrigo Santos\Downloads\CaixaRegistadora\obj\Debug\CaixaRegistadora.pdb
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\bin\Debug\CaixaRegistradora.mdf
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\bin\Debug\CaixaRegistradora_log.ldf
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe.config
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\bin\Debug\CaixaRegistadora.exe
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\bin\Debug\CaixaRegistadora.pdb
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.Form1.resources
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.Properties.Resources.resources
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.csproj.GenerateResource.cache
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.exe
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.pdb
+C:\Users\Rodrigo Santos\Documents\Visual Studio 2019\Projects\CaixaRegistadora\obj\Debug\CaixaRegistadora.Dados.resources
