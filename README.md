@@ -1,4 +1,4 @@
-# caixaregistadora_RS-JF
+# cash_register
 Caixa Registadora- Rodrigo Santos &amp; João Fernandes
 
 This app was developed by me and my classmate João Fernandes. 
